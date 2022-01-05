@@ -22,6 +22,7 @@ class Calculator {
         return a / b;
     }
 
+    Jason is super cool!!!
 
     /*
     Returns the n'th number in the fibonacci sequence
